@@ -214,7 +214,7 @@ include('include/slider.php');
   <section class="container-fluid px-lg-5 py-1 my-5" id="#">
 			<div class="row px-lg-5 px-2 mt-lg-5 pt-lg-5 py-3">
 				<div class="col-lg-5 pt-0 pr-lg-5">
-					<h4 class="font-weight-bold heading-font-size head-heading-top">Physical and Psychological Health</h4>
+					<h4 class="font-weight-bold heading-font-size head-heading-top">Some overview on our brands</h4>
 					<hr class="underline-bar-indexSecondary">
 					<p class="para-firstSection-indexSecondary pt-lg-4 mt-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur. </p>
 					<p class="para-firstSection-indexSecondary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur.</p>
